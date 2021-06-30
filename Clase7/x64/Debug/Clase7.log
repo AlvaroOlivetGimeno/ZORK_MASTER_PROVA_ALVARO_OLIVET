@@ -1,0 +1,10 @@
+﻿  DrawEngine.cpp
+C:\Users\Alvaro\Desktop\assignatures\4rtAny\2\c++\Snake_AlvaroOlivet\ZORK\Clase7\DrawEngine.cpp(38,34): warning C4309: '=': truncamiento de valor constante
+C:\Users\Alvaro\Desktop\assignatures\4rtAny\2\c++\Snake_AlvaroOlivet\ZORK\Clase7\DrawEngine.cpp(42,21): warning C4309: '=': truncamiento de valor constante
+C:\Users\Alvaro\Desktop\assignatures\4rtAny\2\c++\Snake_AlvaroOlivet\ZORK\Clase7\DrawEngine.cpp(45,34): warning C4309: '=': truncamiento de valor constante
+C:\Users\Alvaro\Desktop\assignatures\4rtAny\2\c++\Snake_AlvaroOlivet\ZORK\Clase7\DrawEngine.cpp(53,34): warning C4309: '=': truncamiento de valor constante
+C:\Users\Alvaro\Desktop\assignatures\4rtAny\2\c++\Snake_AlvaroOlivet\ZORK\Clase7\DrawEngine.cpp(60,34): warning C4309: '=': truncamiento de valor constante
+C:\Users\Alvaro\Desktop\assignatures\4rtAny\2\c++\Snake_AlvaroOlivet\ZORK\Clase7\DrawEngine.cpp(66,34): warning C4309: '=': truncamiento de valor constante
+C:\Users\Alvaro\Desktop\assignatures\4rtAny\2\c++\Snake_AlvaroOlivet\ZORK\Clase7\DrawEngine.cpp(70,21): warning C4309: '=': truncamiento de valor constante
+C:\Users\Alvaro\Desktop\assignatures\4rtAny\2\c++\Snake_AlvaroOlivet\ZORK\Clase7\DrawEngine.cpp(73,34): warning C4309: '=': truncamiento de valor constante
+  Clase7.vcxproj -> C:\Users\Alvaro\Desktop\assignatures\4rtAny\2\c++\Snake_AlvaroOlivet\ZORK\x64\Debug\Clase7.exe

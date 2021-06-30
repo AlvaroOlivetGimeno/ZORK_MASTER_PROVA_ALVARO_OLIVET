@@ -1,0 +1,13 @@
+Este Zork ha estado realizado por Alvaro Olivet Gimeno.
+En el un pequeño programa conversara contigo mientras inicias una rara y divertida aventura.
+Tu objetivo será entrar en una mansion.
+Podras pasar las conversaciones con el boton P o automaticamente si se quiere volver hacia atras.
+Podrás conseguir 2 items (una acha y una llave).
+Al entrar en la mansion el juego terminará.
+
+Este es el link del repositorio en git: https://github.com/AlvaroOlivetGimeno/ZORK_MASTER_PROVA_ALVARO_OLIVET.git
+
+Aún así en este Zip se encuentra el proyecto.
+
+Espero que té guste y que lo pases bién jugando.
+
